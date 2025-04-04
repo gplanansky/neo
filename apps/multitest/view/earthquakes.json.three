@@ -1,0 +1,34 @@
+{
+   "results":[
+       {
+         "annotations": {"selected": true},
+         "timestamp":"2017-10-13T12:07:24.000Z",
+         "latitude":63.976,
+         "longitude":-21.949,
+         "depth":1.1,
+         "size":0.6,
+         "quality":58.73,
+         "humanReadableLocation":"6,1 km SV af Helgafelli"
+      },
+      {
+         "annotations": {"selected": false},
+         "timestamp":"2017-10-13T09:50:50.000Z",
+         "latitude":65.124,
+         "longitude":-16.288,
+         "depth":7.2,
+         "size":0.9,
+         "quality":78.51,
+         "humanReadableLocation":"6,1 km NA af Herðubreiðartöglum"
+      },
+      {
+         "annotations": {"selected": false},
+         "timestamp":"2017-10-13T09:41:09.000Z",
+         "latitude":63.945,
+         "longitude":-21.143,
+         "depth":7.4,
+         "size":0.2,
+         "quality":33.12,
+         "humanReadableLocation":"6,5 km SSA af Hveragerði"
+      }
+   ]
+}

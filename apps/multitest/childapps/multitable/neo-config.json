@@ -1,0 +1,13 @@
+{
+    "appPath": "../../../../apps/multitest/childapps/multitable/app.mjs",
+    "basePath": "../../../../",
+    "environment": "development",
+    "mainPath": "../../src/Main.mjs",
+    "mainThreadAddons": [
+        "DragDrop",
+        "Stylesheet"
+    ],
+    "themes"          : ["neo-theme-light"],
+    "useSharedWorkers": true,
+    "workerBasePath": "../../../../src/worker/"
+}
